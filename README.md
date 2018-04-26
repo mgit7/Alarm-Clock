@@ -8,7 +8,7 @@ This application is an Alarm Clock with an integrated Appointment Book. The alar
 ### Screenshots
 
 <img src="https://github.com/mgit7/Alarm-Clock/blob/master/PA5_Gelyana_Vara/Alarm.PNG" width="261" height="371" />
-<img src="https://github.com/mgit7/Alarm-Clock/blob/master/PA5_Gelyana_Vara/AppointmentBook" width="468" height="200" />
+<img src="https://github.com/mgit7/Alarm-Clock/blob/master/PA5_Gelyana_Vara/AppointmentBook.PNG" width="468" height="200" />
 <img src="https://github.com/mgit7/Alarm-Clock/blob/master/PA5_Gelyana_Vara/Help.PNG" width="300" height="400" />
 
 
