@@ -7,9 +7,9 @@ This application is an Alarm Clock with an integrated Appointment Book. The alar
 
 ### Screenshots
 
-<img src="https://github.com/mgit7/SDSU-GE-Hackthon/PA5_Gelyana_Vara/blob/master/Alarm.PNG" width="261" height="371" />
-<img src="https://github.com/mgit7/SDSU-GE-Hackthon/PA5_Gelyana_Vara/blob/master/AppointmentBook" width="651" height="394" />
-<img src="https://github.com/mgit7/SDSU-GE-Hackthon/PA5_Gelyana_Vara/blob/master/Help.PNG" width="412" height="523" />
+<img src="https://github.com/mgit7/Alarm-Clock/tree/master/PA5_Gelyana_Vara/Alarm.PNG" width="261" height="371" />
+<img src="https://github.com/mgit7/Alarm-Clock/tree/master/PA5_Gelyana_Vara/AppointmentBook" width="468" height="200" />
+<img src="https://github.com/mgit7/Alarm-Clock/tree/master/PA5_Gelyana_Vara/Help.PNG" width="300" height="400" />
 
 
 ## How to run on your machine
