@@ -5,9 +5,12 @@
 This application is an Alarm Clock with an integrated Appointment Book. The alarm clock allows you to set an alarm time and a snooze time of their choice. The appointment book allows you to add, edit, delete appointments with a description and includes a set reminder feature.
 
 
-## Demonstration
+### Screenshots
 
-- Update with demo
+<img src="https://github.com/mgit7/SDSU-GE-Hackthon/PA5_Gelyana_Vara/blob/master/Alarm.PNG" width="261" height="371" />
+<img src="https://github.com/mgit7/SDSU-GE-Hackthon/PA5_Gelyana_Vara/blob/master/AppointmentBook" width="651" height="394" />
+<img src="https://github.com/mgit7/SDSU-GE-Hackthon/PA5_Gelyana_Vara/blob/master/Help.PNG" width="412" height="523" />
+
 
 ## How to run on your machine
 
